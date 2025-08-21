@@ -1,0 +1,15 @@
+.headings {
+      background-color: red;
+}
+
+h1 {
+    color: red;
+}
+
+h2 {
+    border-style: dotted solid ridge dashed;
+    border-width: 10px;
+    border-color: cadetblue;
+    padding: 50px 100px 200px 500px;
+    margin: 100px;
+}
